@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Social Media App</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="pasword">password</string>
+    <string name="regist">Register</string>
+    <string name="haveAccount">Already have account ? Login</string>
+    <string name="nothaveAccount">Not have account ? Register</string>
+    <string name="logut">Logout</string>
+    <string name="recover">Forget password ? Recover it</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="user">Users</string>
+    <string name="user_name">User Name</string>
+    <string name="search">Search</string>
+    <string name="chat_list">Chat List</string>
+    <string name="chat">Chats</string>
+    <string name="hisName">His Name</string>
+    <string name="online">Online</string>
+    <string name="start">Start Typing</string>
+    <string name="message">His Message</string>
+    <string name="delivered">delivered</string>
+    <string name="add">Add</string>
+    <string name="enter">Enter Title</string>
+    <string name="enter_des">Enter Description</string>
+    <string name="upload">Upload</string>
+    <string name="title">Title</string>
+    <string name="desc">The desription of post.</string>
+    <string name="like">LIKE</string>
+    <string name="comment">COMMENT</string>
+    <string name="share">SHARE</string>
+    <string name="last">The Last Message</string>
+</resources>
